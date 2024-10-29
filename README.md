@@ -3,6 +3,7 @@
 Este repositório contém implementações de estruturas de dados em C, baseadas em minhas aulas na UFES.
 
 Conteúdo
+
 ED1:
 * Listas (simples e duplamente encadeadas)
 * Pilhas e Filas
