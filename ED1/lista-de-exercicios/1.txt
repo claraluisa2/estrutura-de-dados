@@ -1,0 +1,31 @@
+
+
+    a)O que é um tipo abstrato de dado?
+
+    Um tipo abstrato de dados é uma especificação de um conjunto de dados e operações que podem ser escutadas sobre esses dados.
+
+    b) Descreva as características de uma pilha.
+
+    É uma lista linear onde todas as inserções e retiradas, e todos os acessos(geralmente) acontecem em um unico extremo da lista. Ou seja, os intens são empilhados uns sobre os outros, de forma que o ultimo a ser inserido será o primeiro a ser retirado.
+
+    c) Declare as estruturas necessárias para implementar uma pilha.
+
+    Para implementar uma pilha é necessário um vetor (pilha estatica) ou uma lista encadeada (pilha dinamica).
+
+    d) Implemente a função de inserção em uma pilha. (Feito - Refazer numa folha)
+    e) Implemente a função de remoção em uma pilha.  (Feito - Refazer numa folha)
+    f) Implemente uma função que imprima os elementos de uma pilha começando
+    do topo. (Feito - Refazer numa folha)
+
+    g) Descreva as características de uma fila.
+
+    É uma estrutura para armazenar um conjuntos de elemntos onde os elemtentos são sempre inseridos no fim da fila e o unico elemento que pode ser retirado é o primeiro. Ou seja, o primemeiro a ser inserido, sempre vai ser o primeiro a sair.
+
+    h) Declare as estruturas necessárias para implementar uma fila.
+
+    Para implementar uma fila é necessário um vetor (lista estática ou lista estática circular) ou uma lista encadeada.
+
+    i) Implemente a função de inserção em uma fila. (Feito - Refazer numa folha)
+    j) Implemente a função de remoção em uma fila. (Feito - Refazer numa folha)
+    k) Implemente uma função que imprima os elementos de uma fila. (Feito - Refazer numa folha)
+

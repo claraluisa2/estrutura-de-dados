@@ -1,0 +1,8 @@
+Questão 4: Sobre a busca em largura e em profundidade:
+a) Explique cada processo de busca.
+b) Qual tipo abstrato de dado deve ser utilizado em cada um desses processos?
+Justifique.
+
+A busca em largura é uma busca exploratória que vai acontecer por nível. Ela vai começar no primeiro elemento e vai se expandir para os elementos do próximo nível antes de alcançar certa profundidade e fazer a busca no nível posterior a estes. Ou seja, explora todos os "caminhos" possíveis ao mesmo tempo. Numa busca em largura, uma fila é o tad mais adequado, pela sua característica do primeiro elemento a ser inserido ser o primeiro a ser retirado. Em cada nível, os elementos de cada "caminho" a ser percorrido são inseridos na fila e cada um "aguarda" a sua vez de ser explorado.
+
+A busca em profundidade é uma busca é uma busca que vai até o ponto mais profundo de em um determinado "caminho" antes de retroceder e explorar outras opções. Nela, o tad mais adequado é a pilha, por sua característica de o ultimo elemento a ser inserido no topo ser sempre o primeiro a ser retirado. Logo, os elementos vão ser inseridos seguindo um determinado "caminho" e vão ser retirados a medida em que a busca for retrocedendo, em seguida outras possibilidades serão buscadas.
