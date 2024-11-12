@@ -13,3 +13,6 @@ ED2:
 * Algoritimos de ordenação em memória primária e secundária
 * Pesquisa em memória primária e secundária
 * Processamento de Cadeia de Caracteres
+
+Material de apoio:
+* https://portaldoprofessor.fct.unesp.br/projetos/cadilag/apps/structs/ 
